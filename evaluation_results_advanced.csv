@@ -1,0 +1,4 @@
+Model,Accuracy,ROC-AUC
+Logistic Regression (GridSearch),0.8852,0.9526839200000001
+LinearSVC (GridSearch),0.8871,0.9529528000000003
+MultinomialNB (GridSearch),0.8518,0.93017404
